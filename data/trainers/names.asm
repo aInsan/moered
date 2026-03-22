@@ -6,7 +6,7 @@ TrainerNames::
 	li "SAILOR"
 	li "JR.TRAINER♂"
 	li "JR.TRAINER♀"
-	li "POKéMANIAC"
+	li "MOEMANIAC"
 	li "SUPER NERD"
 	li "HIKER"
 	li "BIKER"

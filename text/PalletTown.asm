@@ -1,6 +1,6 @@
 _PalletTownOakHeyWaitDontGoOutText::
-	text "OAK: Hey! Wait!"
-	line "Don't go out!@"
+	text "OAK: Hey <PLAYER>!"
+	line "Wait! Don't go out!@"
 	text_end
 
 _PalletTownOakItsUnsafeText::
