@@ -29,3 +29,7 @@
 *.sn*
 *.sa*
 *.sg1
+
+# backup files
+*.bak
+*.BAK
